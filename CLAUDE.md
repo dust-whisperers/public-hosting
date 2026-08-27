@@ -21,5 +21,5 @@ which is private.
 
 ## Branching
 
-`develop` is the integration branch. Branch from it, PR into it. Never target `main`
-directly.
+Same as every other repo — `project/PLATFORM.md`. `develop` is the integration
+branch; `main` is never a PR target.
