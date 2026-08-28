@@ -1,7 +1,6 @@
 # public-hosting — notes for Claude
 
-Publicly-served static brand assets. **This is the only public repo in the
-`dust-whisperers` org.**
+Publicly-served static brand assets.
 
 ## What's here
 
