@@ -32,3 +32,6 @@ To rebuild a PDF, open the HTML file in Chrome and print to PDF with paper size
 Letter, margins set to None and background graphics switched on.
 
 The type is Cormorant Garamond and DM Sans, loaded from Google Fonts.
+
+The room behind the top of the customer front and the cleaner sheet is
+`source/assets/living-room.jpg`, an illustrative image.
