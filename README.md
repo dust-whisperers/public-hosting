@@ -5,7 +5,12 @@
 ## What's here
 
 `logos-and-icons/` — PNG and SVG logo, icon and favicon variants (light-ink,
-dark-ink, transparent, several sizes). That is the entire repo: no
+dark-ink, transparent, several sizes).
+
+`one-pagers/` — finished marketing sheets as PDF and PNG, with their HTML
+source. See `one-pagers/README.md`.
+
+That is the entire repo: no
 `package.json`, no build, no tests, no application code.
 
 ## Before you add anything
