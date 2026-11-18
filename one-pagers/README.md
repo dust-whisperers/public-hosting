@@ -23,6 +23,16 @@ For individual cleaners who want to apply.
 | `cleaners/dust-whisperers-cleaner-one-pager.pdf` | Printing or attaching. |
 | `cleaners/dust-whisperers-cleaner-one-pager.png` | Posting online. |
 
+## Cleaning companies one-pager
+
+For cleaning companies that bring their own crew. Its link and QR code go to
+the partner page at `contractor.dustwhisperers.com/partners`.
+
+| File | Use |
+|---|---|
+| `cleaning-companies/dust-whisperers-cleaning-companies-one-pager.pdf` | Printing or attaching. |
+| `cleaning-companies/dust-whisperers-cleaning-companies-one-pager.png` | Posting online. |
+
 ## Source
 
 `source/` holds each sheet as a single HTML file, with its images in
@@ -33,5 +43,6 @@ Letter, margins set to None and background graphics switched on.
 
 The type is Cormorant Garamond and DM Sans, loaded from Google Fonts.
 
-The room behind the top of the customer front and the cleaner sheet is
-`source/assets/living-room.jpg`, an illustrative image.
+The room behind the top of the customer front, the cleaner sheet and the
+cleaning companies sheet is `source/assets/living-room.jpg`, an illustrative
+image.
