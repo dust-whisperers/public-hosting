@@ -22,6 +22,8 @@ For individual cleaners who want to apply.
 |---|---|
 | `cleaners/dust-whisperers-cleaner-one-pager.pdf` | Printing or attaching. |
 | `cleaners/dust-whisperers-cleaner-one-pager.png` | Posting online. |
+| `cleaners/dust-whisperers-cleaner-one-pager-es.pdf` | The Spanish version, for printing or attaching. |
+| `cleaners/dust-whisperers-cleaner-one-pager-es.png` | The Spanish version, for posting online. |
 
 ## Cleaning companies one-pager
 
@@ -32,6 +34,20 @@ the partner page at `contractor.dustwhisperers.com/partners`.
 |---|---|
 | `cleaning-companies/dust-whisperers-cleaning-companies-one-pager.pdf` | Printing or attaching. |
 | `cleaning-companies/dust-whisperers-cleaning-companies-one-pager.png` | Posting online. |
+| `cleaning-companies/dust-whisperers-cleaning-companies-one-pager-es.pdf` | The Spanish version, for printing or attaching. |
+| `cleaning-companies/dust-whisperers-cleaning-companies-one-pager-es.png` | The Spanish version, for posting online. |
+
+## Spanish versions
+
+The cleaner sheet and the cleaning companies sheet each have a Spanish version,
+with `-es` in the file name. The wording follows the Spanish contractor site:
+Texas Spanish, addressing the reader as `usted`. Their QR codes open the site
+in Spanish (`?lang=es`).
+
+The Spanish cleaner sheet lists one requirement the English sheet does not:
+enough spoken English to deal directly with clients.
+
+There is no Spanish version of the customer two-pager.
 
 ## Source
 
