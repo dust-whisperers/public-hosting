@@ -14,6 +14,17 @@ The front is the pitch. The back lists what each package cleans, room by room.
 | `customer/dust-whisperers-customer-back-cream.png` | The cream back as an image. |
 | `customer/dust-whisperers-customer-back-dark.png` | The dark back as an image. |
 
+## Customer welcome one-pager
+
+For customers who have booked: what happens before, during and after a visit,
+how to get the home ready, what happens if plans change, and how to reach us.
+Its QR code opens the customer account at `account.dustwhisperers.com`.
+
+| File | Use |
+|---|---|
+| `customer/dust-whisperers-customer-welcome-one-pager.pdf` | Printing or attaching to an email. |
+| `customer/dust-whisperers-customer-welcome-one-pager.png` | Sending as an image. |
+
 ## Cleaner one-pager
 
 For individual cleaners who want to apply.
